@@ -3,7 +3,7 @@
 ; 2022-04 Windows 10 1809 基于 x64 系统的月度汇总
 https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x64_546889f367caf2a1edd79f5db7d8507e7a53e31b.msu
 
-; 2022-04，Windows 10 Version 21H2 基於 x64 系統
+; 2022-04 Windows 10 Version 21H2 基於 x64 系統
 ; https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_bc0efec7eb2782ac45b1749fb902a80e16832c4a.msu
 
 ; 2022-04 2022-02 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
