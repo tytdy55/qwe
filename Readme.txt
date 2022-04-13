@@ -16,3 +16,5 @@ x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
 ; 2022-04 适用于 Windows 8.1 基于 x64 系统的服务堆栈
 https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x64_66e19403859f08376e346bf7b191aa8ae543b87a.msu
 
+; 2022-04 适用于 Windows 8.1 基于 x86 系统的服务堆栈
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x86_2999ec9917fa4e5822f8ac5a2bd05903081cce29.msu
